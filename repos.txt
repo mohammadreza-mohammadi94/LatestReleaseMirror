@@ -18,4 +18,5 @@ ircfspace/teleMirror|win-x64|
 KaringX/karing|\.dmg|\.exe
 
 # 5. Disable a line by commenting it with #
- masterking32/MasterDnsVPN|Client_Windows_AMD64.zip
+masterking32/MasterDnsVPN|Client_Windows_AMD64.zip
+2dust/v2rayN|windows-64
