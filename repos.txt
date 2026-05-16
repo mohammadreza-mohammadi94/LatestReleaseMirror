@@ -6,6 +6,9 @@
 # 1. No filter – keep all assets from the release
 therealaleph/MasterHttpRelayVPN-RUST
 ircfspace/teleMirror
+Kianmhz/GooseRelayVPN
+atarevals/SNI-Spoofing
+nullroute1970/StormDNS
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 NullLatency/FlowDriver|linux-amd64|darwin-amd64
